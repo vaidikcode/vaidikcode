@@ -1,6 +1,4 @@
- Hi, I’m @vaidikcode
- I’m interested in frontend development
- I’m currently learning react 
+ Hi, I’m @vaidikcode 
  I’m looking to collaborate
  How to reach me ...vaidikbhardwaj00@gmail.com
 
