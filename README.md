@@ -7,20 +7,6 @@ Welcome to my GitHub profile! I'm passionate about coding, creating, and contrib
 
 ---
 
-## 🚀 Tech Stack
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
-
----
-
-
-## 💬 Let's Connect
-
-- 🐦 [Twitter](https://twitter.com/VaidikBhrdwj)
-- 📧 Email: vaidikbhardwaj00@gmail.com
-
-Thanks for stopping by! Feel free to explore my repositories and contribute to ongoing projects. Let's make amazing things together! 🚀
-
 
 <!---
 vaidikcode/vaidikcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
