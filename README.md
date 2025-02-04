@@ -15,9 +15,9 @@
   <p><strong>Building Scalable Distributed Systems with Modern Tech</strong></p>
 </div>
 
-<!-- Tech Stack as JSON-like Code Block with Bluish Theme -->
+<!-- Tech Stack as JSON-like Code Block -->
 <div align="center">
-  <pre style="background-color: #2c3e50; color: #3498db; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace; font-size: 16px;">
+  <pre style="background-color: #1e2a3d; color: #36BCF7; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace;">
 {
   "languages": ["Go", "Java"],
   "cloud_native": ["Kubernetes", "Docker"],
@@ -104,6 +104,7 @@
     animation: snake-grid 1s linear infinite;
   }
 </style>
+
 
 
 
