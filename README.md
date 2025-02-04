@@ -1,102 +1,95 @@
-<h1 align="center">🚀 Hey, I'm Vaidik Bhardwaj! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Vaidik+Bhardwaj;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+CS+Student;Building+Distributed+Systems+%7C+Cloud+Computing;Go+%7C+Java+%7C+Docker+%7C+Kubernetes+%7C+Knative;Open-Source+Contributor+%7C+Always+Learning!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Developer+%7C+Cloud+Native+Enthusiast;Building+Scalable+Distributed+Systems;Always+Learning,+Always+Growing!" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaidikcode&style=for-the-badge&color=blue" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/vaidikcode?label=Followers&style=for-the-badge" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/vaidikcode?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
----
+<h2 align="center">🌟 About Me</h2>
+<div align="center">
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  
+  <p align="left" width="400">
+    🎯 Focused on building scalable distributed systems<br>
+    🌱 Currently exploring Blockchain & Web3<br>
+    ⚡ Cloud native development enthusiast<br>
+    🔭 Always experimenting with new technologies<br>
+    💡 Love solving complex architectural challenges<br>
+    🌍 Open source contributor
+  </p>
+</div>
 
-## 🌟 About Me  
-- 👨‍💻 **CS Student & Backend Developer**  
-- 🏗️ **Building Scalable Distributed Systems**  
-- 🔥 **Go | Java | Spring Boot | Kubernetes | Docker | Knative | KubeEdge**  
-- 📜 **Exploring Blockchain, Web3, and Cloud Computing**  
-- 🚀 **Passionate about Open-Source & System Design**  
+<h2 align="center">🚀 Tech Universe</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Languages</h3>
+        <div align="center">
+          <a href="https://go.dev"><img src="https://media.giphy.com/media/KyurW5RpDmB3V8rHkY/giphy.gif" width="70" /></a>
+          <a href="https://www.java.com"><img src="https://media.giphy.com/media/l0HU7JI4zIb34QM5W/giphy.gif" width="70" /></a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Tools & Platforms</h3>
+        <div align="center">
+          <a href="https://kubernetes.io"><img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="70" /></a>
+          <a href="https://www.docker.com"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikcode&theme=tokyonight&hide_border=true&ring=41b883&fire=41b883&currStreakLabel=41b883" width="49%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=vaidikcode&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="49%" />
+</div>
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaidikcode&theme=radical&no-frame=true&margin-w=15&row=1" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaidikcode&theme=react-dark&hide_border=true&height=300">
+</div>
 
----
-
-## 🚀 Tech Stack  
-### **💻 Languages**  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50">
-</p>
-
-### **🛠️ Frameworks & Tools**  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50">
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/knative/horizontal/color/knative-horizontal-color.png" height="50">
-  <img src="https://raw.githubusercontent.com/kubeedge/kubeedge/master/docs/img/kubeedge.png" height="50">
-</p>
-
----
-
-## 📌 Featured Projects  
-### 🔥 My Top Repositories  
-<p align="center">
-  <a href="https://github.com/vaidikcode/ChainPay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidikcode&repo=ChainPay&theme=radical">
-  </a>
-  <a href="https://github.com/vaidikcode/SatHack-B_Carbon_Read">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidikcode&repo=SatHack-B_Carbon_Read&theme=radical">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vaidikcode/E-com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidikcode&repo=E-com&theme=radical">
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidikcode&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikcode&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikcode&layout=compact&theme=radical" width="45%" />
-</p>
-
----
-
-## 🔥 GitHub Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaidikcode&theme=react-dark&hide_border=true">
-</p>
-
----
-
-## 🌎 Let's Connect!  
-<p align="center">
+<h2 align="center">🤝 Connect With Me</h2>
+<div align="center">
   <a href="mailto:vaidikbhardwaj00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF5252&center=true&vCenter=true&width=200&lines=Gmail" alt="Gmail" />
   </a>
   <a href="https://twitter.com/VaidikBhrdwj">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=200&lines=Twitter" alt="Twitter" />
   </a>
-</p>
+</div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
 
-🔥 **"Code, Deploy, Scale – Repeat!"** 🚀🔥
+<!-- Add some visual enhancements -->
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+  }
+  
+  h1, h2 {
+    background: linear-gradient(45deg, #36BCF7, #41b883);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 20px 0;
+  }
+</style>
 
 
 
