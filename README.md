@@ -1,5 +1,7 @@
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vaidik%20Bhardwaj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" />
+
 </div>
 
 <div align="center">
@@ -22,6 +24,7 @@
   💡 System Design Advocate
 </p>
 
+<!-- Position the image to the right of the Distributed Systems text -->
 <img align="right" height="270" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <div align="center">
@@ -75,43 +78,7 @@
   }
 }
 ```
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-    GitHub Analytics
-  </h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikcode&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidikcode&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaidikcode&theme=tokyonight&no-frame=true&row=1&column=7" width="98%" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-  Connect With Me
-</h2>
-
-<div align="center">
-  <a href="mailto:vaidikbhardwaj00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/VaidikBhrdwj">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=vaidikcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
-</div>
+<div align="center"> <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics </h2> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikcode&theme=tokyonight&hide_border=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api?username=vaidikcode&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vaidikcode&theme=tokyonight&no-frame=true&row=1&column=7" width="98%" /> </div> <h2 align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me </h2> <div align="center"> <a href="mailto:vaidikbhardwaj00@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/VaidikBhrdwj"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </div> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> <br><br> <img src="https://komarev.com/ghpvc/?username=vaidikcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" /> </div>
 
 
 
