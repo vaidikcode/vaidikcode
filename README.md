@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Vaidik Bhardwaj!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=CS+Student+%7C+Backend+Developer;Building+Distributed+Systems;Go+%7C+Java+%7C+Docker+%7C+Kubernetes;Spring+Boot+%7C+Knative+%7C+KubeEdge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=CS+Student+%7C+Backend+Developer;Building+Distributed+Systems;Go+%7C+Java+%7C+Docker+%7C+Kubernetes;Spring+Boot+%7C+Knative+%7C+KubeEdge;Open-Source+Contributor+%7C+Always+Learning!">
 </p>
 
 <p align="center">
@@ -13,27 +13,32 @@
 ## 🚀 About Me  
 👨‍💻 **CS Student & Open-Source Enthusiast**  
 ⚙️ **Passionate about Backend, System Design & Distributed Systems**  
-📜 **Currently exploring Blockchain, Cloud Computing, and Web3**  
+📜 **Exploring Blockchain, Cloud Computing, and Web3**  
 🔬 **Experimenting with Kubernetes, Knative & KubeEdge**  
 🎯 **Building scalable applications one commit at a time!**  
 
 ---
 
 ## 🛠️ Tech Stack  
-#### **💻 Programming Languages**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### **💻 Programming Languages**  
+<p align="center">
+  <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50"></a>  
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50"></a>  
+</p>
 
-#### **🚀 Frameworks & Tools**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Knative](https://img.shields.io/badge/Knative-0078D6?style=for-the-badge&logo=knative&logoColor=white)
-![KubeEdge](https://img.shields.io/badge/KubeEdge-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### **🚀 Frameworks & Tools**  
+<p align="center">
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50"></a>  
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50"></a>  
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50"></a>  
+  <a href="https://knative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/knative/horizontal/color/knative-horizontal-color.png" height="50"></a>  
+  <a href="https://kubeedge.io/en/" target="_blank"><img src="https://raw.githubusercontent.com/kubeedge/kubeedge/master/docs/img/kubeedge.png" height="50"></a>  
+</p>
 
 ---
 
 ## 📌 Featured Projects  
+🚀 **[PROJECT](https://github.com/vaidikcode/PROJECT)** - (Short description)  
 💰 **[ChainPay](https://github.com/vaidikcode/ChainPay)** - Automated Ethereum-based employee payment system.  
 🌱 **[B Carbon Read](https://github.com/vaidikcode/B-Carbon-Read)** - Blockchain simulation for tracking carbon emissions.  
 
@@ -70,7 +75,8 @@
 
 ---
 
-🔥 **"Code, Deploy, Scale – Repeat!"**  
+🔥 **"Code, Deploy, Scale – Repeat!"** 🚀🔥  
+
 
 
 
