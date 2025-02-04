@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Design+Enthusiast;Cloud+Native+;Distributed+Systems+" />
 </div>
-
+<div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
@@ -28,7 +28,7 @@
 </td>
 </tr>
 </table>
-
+</div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </div>
