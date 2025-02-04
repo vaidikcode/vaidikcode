@@ -41,13 +41,13 @@
 
 </td>
 <td align="right" width="50%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
+<img src="https://media1.tenor.com/m/tNfwApVE9RAAAAAC/orange-cat-laughing.gif" width="400"/>
 </td>
 </tr>
 </table>
 </div>
 <div align="center">
-  <img src="https://media1.tenor.com/m/tNfwApVE9RAAAAAC/orange-cat-laughing.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </div>
 
 <div align="center">
