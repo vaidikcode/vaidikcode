@@ -15,7 +15,6 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
 <br><br>
 🎯 Distributed Systems<br>
 🌱 Always Learning & Growing<br>
@@ -24,7 +23,7 @@
 💡 System Design 
 </td>
 <td align="right" width="50%">
-<img src="https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif" width="400"/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
 </td>
 </tr>
 </table>
