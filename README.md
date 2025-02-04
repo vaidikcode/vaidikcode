@@ -16,19 +16,27 @@
 <tr>
 <td valign="top" width="50%">
 <br><br>
-🎯 Distributed Systems<br>
+
 
   
-🌱 Always Learning & Growing<be
-                             >
+🎯 Distributed Systems<br>
 
-⚡ Building Scalable Solutions<be
-                               >
 
-🔭 Open Source Enthusiast<be
-                          >
+  
+🌱 Always Learning & Growing<be>
+
+                             
+
+⚡ Building Scalable Solutions<be>
+
+
+
+🔭 Open Source Enthusiast<be>
+
+
 
 💡 System Design 
+
 
 
 </td>
