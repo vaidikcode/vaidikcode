@@ -8,7 +8,7 @@
 
 <!-- Snake Grid Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
 <h2 align="center">
@@ -22,7 +22,7 @@
 
 <!-- Tech Stack as JSON-like Code Block -->
 <div align="center">
-  <pre style="background-color: #1e2a3d; color: #36BCF7; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace;">
+  <pre style="background-color: #1e2a3d; color: #FF6F61; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace;">
 {
   "languages": ["Go", "Java"],
   "cloud_native": ["Kubernetes", "Docker"],
@@ -94,7 +94,7 @@
   td { padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1b27, #24283b); transition: transform 0.3s ease-in-out; }
   td:hover { transform: translateY(-5px); }
   h2 { background: linear-gradient(45deg, #36BCF7, #41b883); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 20px 0; }
-  pre { font-size: 16px; white-space: pre-wrap; word-wrap: break-word; }
+  pre { font-size: 16px; white-space: pre-wrap; word-wrap: break-word; color: #FF6F61; } /* Blush-like text color */
 </style>
 
 
