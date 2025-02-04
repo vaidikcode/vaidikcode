@@ -12,13 +12,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Design+Enthusiast;Cloud+Native+Developer;Distributed+Systems+Engineer" />
 </div>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
-</p>
-
-<!-- Two-column layout for text and image -->
-<div style="display: flex; align-items: start;">
+<!-- Skills and Image side by side -->
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+    <br><br>
     <p>
       🎯 Expert in Distributed Systems<br>
       🌱 Always Learning & Growing<br>
@@ -27,19 +25,17 @@
       💡 System Design Advocate
     </p>
   </div>
-  <div style="flex: 1;">
-    <img align="right" height="270" width="400" alt="Pixelated Game Style Image" src="https://media.giphy.com/media/gm6khITiQLd1qA40PB/giphy.gif"/>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="320" height="270" />
   </div>
 </div>
 
-<!-- Snake animation grid -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<!-- Snake animation below the skills section -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
