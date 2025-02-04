@@ -34,7 +34,6 @@
 ---
 
 ## 📌 Featured Projects  
-🚀 **[PROJECT](https://github.com/vaidikcode/PROJECT)** - (Short description)  
 💰 **[ChainPay](https://github.com/vaidikcode/ChainPay)** - Automated Ethereum-based employee payment system.  
 🌱 **[B Carbon Read](https://github.com/vaidikcode/B-Carbon-Read)** - Blockchain simulation for tracking carbon emissions.  
 
