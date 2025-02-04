@@ -41,7 +41,7 @@
 
 </td>
 <td align="right" width="50%">
-<img src="https://media1.tenor.com/m/tNfwApVE9RAAAAAC/orange-cat-laughing.gif" width="400"/>
+<img src="https://media.tenor.com/Va_MYd9zdeUAAAAM/gato-mouse.gif" width="400"/>
 </td>
 </tr>
 </table>
