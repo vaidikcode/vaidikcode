@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=&fontSize=80&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vaidik%20Bhardwaj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -26,6 +26,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
+<!-- Animated Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -38,24 +39,51 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technology Artisan
 </h2>
 
+<!-- Animated Banner -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
-</h2>
+```json
+{
+  "technologies": {
+    "core_languages": {
+      "primary": ["Go", "Java"],
+      "familiar": ["Python", "JavaScript"]
+    },
+    "cloud_native": {
+      "containerization": ["Docker", "Containerd"],
+      "orchestration": ["Kubernetes", "Knative", "KubeEdge"],
+      "service_mesh": ["Istio", "Linkerd"]
+    },
+    "distributed_systems": {
+      "messaging": ["Apache Kafka", "RabbitMQ"],
+      "databases": {
+        "sql": ["PostgreSQL", "MySQL"],
+        "nosql": ["MongoDB", "Redis"]
+      },
+      "observability": ["Prometheus", "Grafana", "Jaeger"]
+    },
+    "development_tools": {
+      "version_control": ["Git", "GitHub"],
+      "ci_cd": ["Jenkins", "GitHub Actions"],
+      "iac": ["Terraform", "Ansible"]
+    }
+  }
+}
+```
 
 <div align="center">
-  <pre style="background-color: #1e2a3d; color: #36BCF7; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word;">
-{
-  "languages": ["Go", "Java"],
-  "cloud_native": ["Kubernetes", "Docker", "Knative", "KubeEdge"]
-}
-  </pre>
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+  </h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikcode&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidikcode&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaidikcode&theme=tokyonight&no-frame=true&row=1&column=7" width="98%" />
+</div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me
@@ -68,12 +96,12 @@
   <a href="https://twitter.com/VaidikBhrdwj">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-
+ 
   <br><br>
-
+ 
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   <br><br>
-
+ 
   <img src="https://komarev.com/ghpvc/?username=vaidikcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </div>
 
