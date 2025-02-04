@@ -35,8 +35,6 @@
 ---
 
 ## 📌 Featured Projects  
-🔥 **[PROJECT](https://github.com/yourusername/PROJECT)**  
-_A cutting-edge solution for XYZ (add a catchy tagline)_  
 
 💰 **[ChainPay](https://github.com/yourusername/ChainPay)**  
 _Automated Ethereum-based employee payment system with cron jobs and custom rules._  
