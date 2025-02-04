@@ -1,120 +1,108 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=&fontSize=80&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=&fontSize=80&fontAlign=80&fontAlignY=35&animation=scaleIn&desc=&descSize=20&descAlign=80&descAlignY=55" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hey!+I'm+Vaidik+Bhardwaj;%F0%9F%9A%80+Building+the+Future+of+Tech" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=35&duration=3000&pause=1000&color=FF33F7&background=2122FF00&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I'm+Vaidik+Bhardwaj;Building+Scalable+Systems+%F0%9F%9A%80;Backend+%26+Distributed+Systems+Engineer" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Design+Enthusiast;Cloud+Native+Developer;Distributed+Systems+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Go+%7C+Java+%7C+System+Design;Distributed+Systems+%7C+Backend+Development;Testing+%7C+Cloud+Native+Architecture" />
 </div>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100">
-  <br><br>
-  🎯 Expert in Distributed Systems<br>
-  🌱 Always Learning & Growing<br>
-  ⚡ Building Scalable Solutions<br>
-  🔭 Open Source Enthusiast<br>
-  💡 System Design Advocate
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" />
+</picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
-
-<!-- Animated Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Tech Stack & Expertise
 </h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="100" />
-  <img src="https://user-images.190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100" />
+  <!-- Core Technologies -->
+  <h3>🛠️ Primary Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=go,java,kubernetes" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eec0.gif" width="200">
   <br><br>
   
-  <h3>💫 Core Languages</h3>
-  <img src="https://skillicons.dev/icons?i=go,java" />
+  <!-- Cloud & Systems -->
+  <h3>☁️ Cloud Native & Systems</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://raw.githubusercontent.com/kubeedge/kubeedge/master/docs/img/kubeedge-icon-color.png" width="48"/>
+    <img src="https://skillicons.dev/icons?i=nginx,redis" />
+  </p>
   <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300">
   <br><br>
   
-  <h3>🚀 Cloud Native Stack</h3>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/knative/icon/color/knative-icon-color.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/kubeedge/kubeedge/master/docs/img/kubeedge-icon-color.png" width="50"/>
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-</div>
-
-<br>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Expertise Areas
-</h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="240"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="240"/>
-  <br>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="240"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="240"/>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
-  </h2>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikcode&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidikcode&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaidikcode&custom_title=Vaidik's%20GitHub%20Activity&theme=tokyo-night&hide_border=true" width="98%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaidikcode&theme=tokyonight&no-frame=true&row=1&column=7" width="98%" />
+  <!-- Testing & Tools -->
+  <h3>🧪 Testing & Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postman,junit,maven" />
+  </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="300">
 </div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me
+  <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="35"> System Design & Architecture
 </h2>
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="100%">
+        <br>
+        <p align="center">Distributed Systems</p>
+      </td>
+      <td width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%">
+        <br>
+        <p align="center">Backend Architecture</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="35"> GitHub Analytics</h2>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikcode&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidikcode&show_icons=true&theme=radical&hide_border=true&bg_color=060A0CD0" width="450"/>
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaidikcode&theme=react-dark&hide_border=true&bg_color=060A0CD0" width="100%">
+</div>
+
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/VaVNwXfU3lkBd2JLfR/giphy.gif" width="35"> Let's Connect</h2>
+  
   <a href="mailto:vaidikbhardwaj00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://twitter.com/VaidikBhrdwj">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
   </a>
   
   <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+  <br>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=vaidikcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://profile-counter.glitch.me/vaidikcode/count.svg" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF33F7,100:3399FF&height=100&section=footer&animation=twinkling" />
 </div>
 
 
