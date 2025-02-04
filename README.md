@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="filter: hue-rotate(90deg) saturate(1.5) brightness(0.8);"/> </div>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="filter: grayscale(100%) invert(1) hue-rotate(90deg) saturate(4) brightness(0.8);"/>
+</div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technology Artisan
@@ -19,7 +20,7 @@
 </div>
 
 <div align="center">
-  <pre style="background-color: #1e2a3d; color: #00FF00; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word;">
+  <pre style="background-color: #1e2a3d; color: #36BCF7; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word;">
 {
   "languages": ["Go", "Java"],
   "cloud_native": ["Kubernetes", "Docker"],
@@ -87,7 +88,7 @@
   td { padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1b27, #24283b); transition: transform 0.3s ease-in-out; }
   td:hover { transform: translateY(-5px); }
   h2 { background: linear-gradient(45deg, #36BCF7, #41b883); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 20px 0; }
-  pre { font-size: 16px; white-space: pre-wrap; word-wrap: break-word;  } /* Removed color from here */
+  pre { font-size: 16px; color: #36BCF7; white-space: pre-wrap; word-wrap: break-word; }
 </style>
 
 
