@@ -6,10 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+World!;Backend+Developer;System+Design+Enthusiast;Cloud+Native+Developer;Open+Source+Contributor" />
 </div>
 
-<!-- Snake Grid Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-</div>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="filter: hue-rotate(90deg) saturate(1.5) brightness(0.8);"/> </div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technology Artisan
@@ -20,9 +18,8 @@
   <p><strong>Building Scalable Distributed Systems with Modern Tech</strong></p>
 </div>
 
-<!-- Tech Stack as JSON-like Code Block -->
 <div align="center">
-  <pre style="background-color: #1e2a3d; color: #FF6F61; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace;">
+  <pre style="background-color: #1e2a3d; color: #00FF00; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word;">
 {
   "languages": ["Go", "Java"],
   "cloud_native": ["Kubernetes", "Docker"],
@@ -35,7 +32,6 @@
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Areas of Expertise
 </h2>
 
-<!-- Expertise Cards -->
 <div align="center">
   <table>
     <tr>
@@ -67,7 +63,6 @@
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Let's Connect</h2>
-  <!-- Social Links -->
   <a href="mailto:vaidikbhardwaj00@gmail.com">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" />
   </a>&nbsp;&nbsp;
@@ -76,7 +71,6 @@
   </a>
 </div>
 
-<!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vaidikcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </div>
@@ -85,7 +79,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
 
-<!-- Custom CSS for Animations -->
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   img { transition: transform 0.3s ease-in-out; }
@@ -94,7 +87,7 @@
   td { padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1b27, #24283b); transition: transform 0.3s ease-in-out; }
   td:hover { transform: translateY(-5px); }
   h2 { background: linear-gradient(45deg, #36BCF7, #41b883); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 20px 0; }
-  pre { font-size: 16px; white-space: pre-wrap; word-wrap: break-word; color: #FF6F61; } /* Blush-like text color */
+  pre { font-size: 16px; white-space: pre-wrap; word-wrap: break-word;  } /* Removed color from here */
 </style>
 
 
