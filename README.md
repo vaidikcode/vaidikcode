@@ -1,57 +1,60 @@
-<h1 align="center">Hey there! 👋 I'm Vaidik Bhardwaj</h1>  
+<h1 align="center">👋 Hey there, I'm Vaidik Bhardwaj!</h1>
 <p align="center">
-🚀 <b>CS Student | Backend Developer | System Design & Distributed Systems Enthusiast</b>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=CS+Student+%7C+Backend+Developer;Building+Distributed+Systems;Go+%7C+Java+%7C+Docker+%7C+Kubernetes;Spring+Boot+%7C+Knative+%7C+KubeEdge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaidikcode&style=for-the-badge&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/vaidikcode?label=Followers&style=for-the-badge" alt="GitHub Followers">
 </p>
 
 ---
 
-### 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=15&row=1" />
-</p>
+## 🚀 About Me  
+👨‍💻 **CS Student & Open-Source Enthusiast**  
+⚙️ **Passionate about Backend, System Design & Distributed Systems**  
+📜 **Currently exploring Blockchain, Cloud Computing, and Web3**  
+🔬 **Experimenting with Kubernetes, Knative & KubeEdge**  
+🎯 **Building scalable applications one commit at a time!**  
 
 ---
 
-## ⚡ About Me  
-- 🔧 **Building scalable and distributed systems**  
-- 💡 **Passionate about Open-Source & Backend Development**  
-- 🔥 **Exploring System Design & Cloud Technologies**  
-- 🏗️ **Strong grip on Go, Java, and backend frameworks**  
+## 🛠️ Tech Stack  
+#### **💻 Programming Languages**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
----
-
-## 🛠 Tech Stack  
-**Languages:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-
-**Frameworks & Tools:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Knative](https://img.shields.io/badge/Knative-0078D6?style=for-the-badge&logo=knative&logoColor=white)  
-![KubeEdge](https://img.shields.io/badge/KubeEdge-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+#### **🚀 Frameworks & Tools**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Knative](https://img.shields.io/badge/Knative-0078D6?style=for-the-badge&logo=knative&logoColor=white)
+![KubeEdge](https://img.shields.io/badge/KubeEdge-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects  
-
-💰 **[ChainPay](https://github.com/yourusername/ChainPay)**  
-_Automated Ethereum-based employee payment system with cron jobs and custom rules._  
-
-🌍 **[B Carbon Read](https://github.com/yourusername/B-Carbon-Read)**  
-_A blockchain simulation for tracking carbon emissions._  
+🚀 **[PROJECT](https://github.com/vaidikcode/PROJECT)** - (Short description)  
+💰 **[ChainPay](https://github.com/vaidikcode/ChainPay)** - Automated Ethereum-based employee payment system.  
+🌱 **[B Carbon Read](https://github.com/vaidikcode/B-Carbon-Read)** - Blockchain simulation for tracking carbon emissions.  
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidikcode&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikcode&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikcode&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaidikcode&theme=radical&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ---
@@ -68,7 +71,7 @@ _A blockchain simulation for tracking carbon emissions._
 
 ---
 
-🎯 _"Building scalable systems one commit at a time!"_ 🚀🔥  
+🔥 **"Code, Deploy, Scale – Repeat!"**  
 
 
 
