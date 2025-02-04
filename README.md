@@ -17,10 +17,20 @@
 <td valign="top" width="50%">
 <br><br>
 🎯 Distributed Systems<br>
-🌱 Always Learning & Growing<br>
-⚡ Building Scalable Solutions<br>
-🔭 Open Source Enthusiast<br>
+
+  
+🌱 Always Learning & Growing<be
+                             >
+
+⚡ Building Scalable Solutions<be
+                               >
+
+🔭 Open Source Enthusiast<be
+                          >
+
 💡 System Design 
+
+
 </td>
 <td align="right" width="50%">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
