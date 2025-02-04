@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Design+Enthusiast;Cloud+Native+Developer;Distributed+Systems+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Design+Enthusiast;Cloud+Native+;Distributed+Systems+" />
 </div>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -17,11 +17,11 @@
 <td valign="top" width="50%">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
 <br><br>
-🎯 Expert in Distributed Systems<br>
+🎯 Distributed Systems<br>
 🌱 Always Learning & Growing<br>
 ⚡ Building Scalable Solutions<br>
 🔭 Open Source Enthusiast<br>
-💡 System Design Advocate
+💡 System Design 
 </td>
 <td align="right" width="50%">
 <img src="https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif" width="400"/>
@@ -51,20 +51,20 @@
     "cloud_native": {
       "containerization": ["Docker", "Containerd"],
       "orchestration": ["Kubernetes", "Knative", "KubeEdge"],
-      "service_mesh": ["Istio", "Linkerd"]
+      "service_mesh": ["Null", "Null"]
     },
     "distributed_systems": {
-      "messaging": ["Apache Kafka", "RabbitMQ"],
+      "messaging": ["Null", "Null"],
       "databases": {
         "sql": ["PostgreSQL", "MySQL"],
         "nosql": ["MongoDB", "Redis"]
       },
-      "observability": ["Prometheus", "Grafana", "Jaeger"]
+      "observability": ["Prometheus", "Null", "Jaeger"]
     },
     "development_tools": {
       "version_control": ["Git", "GitHub"],
-      "ci_cd": ["Jenkins", "GitHub Actions"],
-      "iac": ["Terraform", "Ansible"]
+      "ci_cd": ["Null", "GitHub Actions"],
+      "iac": ["Null", "null"]
     }
   }
 }
