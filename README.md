@@ -14,26 +14,30 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top">
-
-🎯 Expert in Distributed Systems  
-🌱 Always Learning & Growing  
-⚡ Building Scalable Solutions  
-🔭 Open Source Enthusiast  
+<td valign="top" width="50%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+<br><br>
+🎯 Expert in Distributed Systems<br>
+🌱 Always Learning & Growing<br>
+⚡ Building Scalable Solutions<br>
+🔭 Open Source Enthusiast<br>
 💡 System Design Advocate
-
 </td>
-<td align="right">
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400"/>
+<td align="right" width="50%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </td>
 </tr>
 </table>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+</div>
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -100,9 +104,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
 </div>
-
-
-
 
 
 
