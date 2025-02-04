@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vaidik%20Bhardwaj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" />
 </div>
@@ -23,26 +24,7 @@
 </p>
 
 <!-- Position the new pixelated game-style image to the right of the Distributed Systems text -->
-<img align="right" height="270" width="400" alt="Pixelated Game Style Image" src="https://media.giphy.com/media/xT9IeqkJ9zayQfLfKQ/giphy.gif"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Technology+Artisan" alt="Typing SVG" />
-  </a>
-</h2>
+<img align="right" height="270" width="400" alt="Pixelated Game Style Image" src="https://camo.githubusercontent.com/f102076b5824ee5a60bcf5e58595faac3c813ef505193c8d8224761b4eb3949d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7854394965716b4a397a617951664c664b512f67697068792e676966"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -111,6 +93,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
 </div>
+
 
 
 
