@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey there, I'm Vaidik Bhardwaj!</h1>
+<h1 align="center">🚀 Hey, I'm Vaidik Bhardwaj! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Backend+Developer;Building+Distributed+Systems+%7C+Cloud+Computing;Go+%7C+Java+%7C+Docker+%7C+Kubernetes+%7C+Knative;Open-Source+Contributor+%7C+Always+Learning!;Follow+for+More+Cool+Projects!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+CS+Student;Building+Distributed+Systems+%7C+Cloud+Computing;Go+%7C+Java+%7C+Docker+%7C+Kubernetes+%7C+Knative;Open-Source+Contributor+%7C+Always+Learning!">
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 ---
 
-## 🚀 About Me  
-🔥 **CS Student & Backend Developer**  
-⚙️ **Building Scalable Distributed Systems**  
-📜 **Exploring Blockchain, Web3, and Cloud Computing**  
-🛠️ **Docker | Kubernetes | Knative | KubeEdge | Spring Boot**  
-💡 **Loves Open-Source & System Design**  
+## 🌟 About Me  
+- 👨‍💻 **CS Student & Backend Developer**  
+- 🏗️ **Building Scalable Distributed Systems**  
+- 🔥 **Go | Java | Spring Boot | Kubernetes | Docker | Knative | KubeEdge**  
+- 📜 **Exploring Blockchain, Web3, and Cloud Computing**  
+- 🚀 **Passionate about Open-Source & System Design**  
 
 ---
 
@@ -28,37 +28,38 @@
 
 ---
 
-## 🎯 Tech Stack & Tools  
-### **💻 Programming Languages**  
+## 🚀 Tech Stack  
+### **💻 Languages**  
 <p align="center">
-  <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50"></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50">
 </p>
 
-### **🚀 Frameworks & DevOps Tools**  
+### **🛠️ Frameworks & Tools**  
 <p align="center">
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50"></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50"></a>
-  <a href="https://knative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/knative/horizontal/color/knative-horizontal-color.png" height="50"></a>
-  <a href="https://kubeedge.io/en/" target="_blank"><img src="https://raw.githubusercontent.com/kubeedge/kubeedge/master/docs/img/kubeedge.png" height="50"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50">
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/knative/horizontal/color/knative-horizontal-color.png" height="50">
+  <img src="https://raw.githubusercontent.com/kubeedge/kubeedge/master/docs/img/kubeedge.png" height="50">
 </p>
 
 ---
 
 ## 📌 Featured Projects  
+### 🔥 My Top Repositories  
 <p align="center">
-  <a href="https://github.com/vaidikcode/PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidikcode&repo=PROJECT&theme=radical">
-  </a>
   <a href="https://github.com/vaidikcode/ChainPay">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidikcode&repo=ChainPay&theme=radical">
+  </a>
+  <a href="https://github.com/vaidikcode/SatHack-B_Carbon_Read">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidikcode&repo=SatHack-B_Carbon_Read&theme=radical">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vaidikcode/B-Carbon-Read">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidikcode&repo=B-Carbon-Read&theme=radical">
+  <a href="https://github.com/vaidikcode/E-com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidikcode&repo=E-com&theme=radical">
   </a>
 </p>
 
@@ -76,14 +77,14 @@
 
 ---
 
-## 🌟 Latest Activity  
+## 🔥 GitHub Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vaidikcode&theme=react-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaidikcode&theme=react-dark&hide_border=true">
 </p>
 
 ---
 
-## 💬 Connect With Me  
+## 🌎 Let's Connect!  
 <p align="center">
   <a href="mailto:vaidikbhardwaj00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -95,8 +96,7 @@
 
 ---
 
-🔥 **"Code, Deploy, Scale – Repeat!"** 🚀🔥  
-
+🔥 **"Code, Deploy, Scale – Repeat!"** 🚀🔥
 
 
 
