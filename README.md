@@ -12,11 +12,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Design+Enthusiast;Cloud+Native+Developer;Distributed+Systems+Engineer" />
 </div>
 
-<img align="right" height="250" width="400" alt="Cooler Animated Image" src="https://media.giphy.com/media/14xCezmD0yEu8/giphy.gif"/>  <div align="left">  <a href="https://git.io/typing-svg">
+<img align="right" height="250" width="400" alt="Cooler Animated Image" src="https://media.giphy.com/media/14xCezmD0yEu8/giphy.gif"/>
+
+<div align="left">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=6000&pause=500&color=36BCF7&align=left&vCenter=true&multiline=true&repeat=false&random=false&width=400&lines=%E2%9A%9B+Expert+in+Distributed+Systems;%F0%9F%8C%B3+Always+Learning+%26+Growing;%E2%9A%A1+Building+Scalable+Solutions;%F0%9F%97%A8+Open+Source+Enthusiast;%F0%9F%92%A1+System+Design+Advocate" alt="Typing SVG" />
   </a>
 </div>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
@@ -104,7 +106,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
 </div>
-
 
 
 
