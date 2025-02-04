@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vaidik%20Bhardwaj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" />
 </div>
@@ -15,16 +14,32 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
-  <br><br>
-  🎯 Expert in Distributed Systems<br>
-  🌱 Always Learning & Growing<br>
-  ⚡ Building Scalable Solutions<br>
-  🔭 Open Source Enthusiast<br>
-  💡 System Design Advocate
 </p>
 
-<!-- Position the new pixelated game-style image to the right of the Distributed Systems text -->
-<img align="right" height="270" width="400" alt="Pixelated Game Style Image" src="https://media.giphy.com/media/gm6khITiQLd1qA40PB/giphy.gif"/>
+<!-- Two-column layout for text and image -->
+<div style="display: flex; align-items: start;">
+  <div style="flex: 1;">
+    <p>
+      🎯 Expert in Distributed Systems<br>
+      🌱 Always Learning & Growing<br>
+      ⚡ Building Scalable Solutions<br>
+      🔭 Open Source Enthusiast<br>
+      💡 System Design Advocate
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img align="right" height="270" width="400" alt="Pixelated Game Style Image" src="https://media.giphy.com/media/gm6khITiQLd1qA40PB/giphy.gif"/>
+  </div>
+</div>
+
+<!-- Snake animation grid -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
@@ -92,14 +107,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 
