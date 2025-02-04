@@ -24,10 +24,10 @@
 </p>
 
 <!-- Position the new pixelated game-style image to the right of the Distributed Systems text -->
-<img align="right" height="270" width="400" alt="Pixelated Game Style Image" src="https://camo.githubusercontent.com/f102076b5824ee5a60bcf5e58595faac3c813ef505193c8d8224761b4eb3949d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7854394965716b4a397a617951664c664b512f67697068792e676966"/>
+<img align="right" height="270" width="400" alt="Pixelated Game Style Image" src="https://media.giphy.com/media/gm6khITiQLd1qA40PB/giphy.gif"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </div>
 
 ```json
@@ -92,6 +92,14 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 
