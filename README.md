@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+World!;Backend+Developer;System+Design+Enthusiast;Cloud+Native+Developer;Open+Source+Contributor" />
 </div>
 
+<!-- Snake Grid Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technology Artisan
 </h2>
@@ -91,6 +96,7 @@
   h2 { background: linear-gradient(45deg, #36BCF7, #41b883); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 20px 0; }
   pre { font-size: 16px; white-space: pre-wrap; word-wrap: break-word; }
 </style>
+
 
 
 
