@@ -11,7 +11,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<h2 align="center">
+<h2 align="center" style="color: #36BCF7;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technology Artisan
 </h2>
 
@@ -20,26 +20,39 @@
   <p><strong>Building Scalable Distributed Systems with Modern Tech</strong></p>
 </div>
 
+<!-- Tech Skills as Code Block -->
+<div align="center">
+  <h3>Tech Stack</h3>
+  <pre style="background: #1e1e1e; color: #f5f5f5; padding: 15px; border-radius: 10px; font-size: 16px; overflow-x: auto;">
+{
+  "Languages": ["Go", "Java", "Python", "JavaScript"],
+  "Cloud Native": ["Kubernetes", "Docker", "Knative", "KubeEdge"],
+  "Tools": ["Terraform", "Git", "Prometheus", "Grafana"],
+  "Databases": ["MySQL", "MongoDB", "Redis"],
+  "Blockchain": ["Ethereum", "Solidity", "Mantle"]
+}
+  </pre>
+</div>
+
 <!-- Rotating Tech Stack Animation -->
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
         <h3>Core Languages</h3>
-        <img src="https://skillicons.dev/icons?i=go,java" width="100"/>
+        <pre style="background: #2d2d2d; padding: 15px; border-radius: 5px;">Go, Java</pre>
         <br><br>
         <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
       </td>
       <td align="center" width="33%">
         <h3>Cloud Native</h3>
-        <img src="https://skillicons.dev/icons?i=kubernetes,docker" width="100"/>
+        <pre style="background: #2d2d2d; padding: 15px; border-radius: 5px;">Kubernetes, Docker</pre>
         <br><br>
         <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e3-9c5d-4d59-9669-3727dd10e002.gif" width="100">
       </td>
       <td align="center" width="33%">
         <h3>Advanced Tools</h3>
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/knative/icon/color/knative-icon-color.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/kubeedge/kubeedge/master/docs/img/kubeedge-icon-color.png" width="50"/>
+        <pre style="background: #2d2d2d; padding: 15px; border-radius: 5px;">Knative, KubeEdge</pre>
         <br><br>
         <img src="https://user-images.githubusercontent.com/74038190/212284116-c5c76ccf-c0b1-4c4f-a516-dccc81c770a8.gif" width="100">
       </td>
@@ -47,11 +60,31 @@
   </table>
 </div>
 
+<!-- Snake Grid Animation in Tech Section -->
+<style>
+  @keyframes snake {
+    0% { transform: scale(1); }
+    25% { transform: scale(1.1); }
+    50% { transform: scale(1); }
+    75% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
+
+  table td {
+    animation: snake 3s ease-in-out infinite;
+  }
+
+  td:hover {
+    animation: none;
+    transform: scale(1.1) translateY(-5px);
+  }
+</style>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
-<h2 align="center">
+<h2 align="center" style="color: #36BCF7;">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Areas of Expertise
 </h2>
 
@@ -96,7 +129,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vaidikcode&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
-<h2 align="center">
+<h2 align="center" style="color: #36BCF7;">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
 </h2>
 
@@ -118,48 +151,9 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
-<!-- Custom CSS for animations -->
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-
-  img {
-    transition: transform 0.3s ease-in-out;
-  }
-
-  img:hover {
-    transform: scale(1.1);
-  }
-
-  table {
-    border-collapse: separate;
-    border-spacing: 15px;
-  }
-
-  td {
-    padding: 15px;
-    border-radius: 10px;
-    background: linear-gradient(145deg, #1a1b27, #24283b);
-    transition: transform 0.3s ease-in-out;
-  }
-
-  td:hover {
-    transform: translateY(-5px);
-  }
-
-  h2 {
-    background: linear-gradient(45deg, #36BCF7, #41b883);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin: 20px 0;
-  }
-</style>
 
 <!---
 vaidikcode/vaidikcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
