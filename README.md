@@ -24,7 +24,7 @@
 💡 System Design Advocate
 </td>
 <td align="right" width="50%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://giphy.com/explore/pixel-art" width="400"/>
 </td>
 </tr>
 </table>
