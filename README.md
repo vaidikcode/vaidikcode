@@ -15,9 +15,9 @@
   <p><strong>Building Scalable Distributed Systems with Modern Tech</strong></p>
 </div>
 
-<!-- Tech Stack as JSON-like Code Block -->
+<!-- Tech Stack as JSON-like Code Block with Bluish Theme -->
 <div align="center">
-  <pre style="background-color: #1e2a3d; color: #36BCF7; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace;">
+  <pre style="background-color: #2c3e50; color: #3498db; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace; font-size: 16px;">
 {
   "languages": ["Go", "Java"],
   "cloud_native": ["Kubernetes", "Docker"],
@@ -90,7 +90,21 @@
   td:hover { transform: translateY(-5px); }
   h2 { background: linear-gradient(45deg, #36BCF7, #41b883); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 20px 0; }
   pre { font-size: 16px; white-space: pre-wrap; word-wrap: break-word; }
+
+  /* Snake Grid Animation */
+  @keyframes snake-grid {
+    0% { background-position: 0 0; }
+    100% { background-position: 100% 100%; }
+  }
+
+  body {
+    background: #24283b;
+    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.05) 25%, rgba(0, 0, 0, 0.15) 25%, rgba(0, 0, 0, 0.15) 50%, rgba(255, 255, 255, 0.05) 50%, rgba(255, 255, 255, 0.05) 75%, rgba(0, 0, 0, 0.15) 75%, rgba(0, 0, 0, 0.15) 100%);
+    background-size: 50px 50px;
+    animation: snake-grid 1s linear infinite;
+  }
 </style>
+
 
 
 
