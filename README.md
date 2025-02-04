@@ -16,24 +16,22 @@
   <p><strong>Building Scalable Distributed Systems with Modern Tech</strong></p>
 </div>
 
-<!-- Tech Stack Section with Animation -->
+<!-- Improved Tech Stack Section -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>Core Languages</h3>
-        <pre><code>Go, Java</code></pre>
-      </td>
-      <td align="center" width="33%">
-        <h3>Cloud Native</h3>
-        <pre><code>Kubernetes, Docker</code></pre>
-      </td>
-      <td align="center" width="33%">
-        <h3>Advanced Tools</h3>
-        <pre><code>Knative, KubeEdge</code></pre>
-      </td>
-    </tr>
-  </table>
+  <div class="tech-stack">
+    <div class="tech-item">
+      <h3>Core Languages</h3>
+      <p>Go, Java</p>
+    </div>
+    <div class="tech-item">
+      <h3>Cloud Native</h3>
+      <p>Kubernetes, Docker</p>
+    </div>
+    <div class="tech-item">
+      <h3>Advanced Tools</h3>
+      <p>Knative, KubeEdge</p>
+    </div>
+  </div>
 </div>
 
 <!-- Snake Grid Animation -->
@@ -88,6 +86,38 @@
     margin: 20px 0;
   }
 
+  /* Tech Stack Section */
+  .tech-stack {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 30px 0;
+  }
+
+  .tech-item {
+    background: #2e3a44;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    width: 200px;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .tech-item:hover {
+    transform: translateY(-5px);
+  }
+
+  .tech-item h3 {
+    font-size: 18px;
+    color: #36BCF7;
+    margin-bottom: 10px;
+  }
+
+  .tech-item p {
+    color: #fff;
+    font-size: 16px;
+  }
+
   /* Snake Grid Animation */
   .snake-grid {
     display: grid;
@@ -95,6 +125,7 @@
     gap: 10px;
     width: 60%;
     animation: snakeAnimation 4s infinite;
+    margin-top: 30px;
   }
 
   .snake-box {
