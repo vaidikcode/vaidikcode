@@ -23,7 +23,7 @@
 </p>
 
 <!-- Position the new pixelated game-style image to the right of the Distributed Systems text -->
-<img align="right" height="270" width="400" alt="Pixelated Game Style Image" src="https://media.giphy.com/media/3o6gE5H1JkO8pD2mnq/giphy.gif"/>
+<img align="right" height="270" width="400" alt="Pixelated Game Style Image" src="https://media.giphy.com/media/xT9IeqkJ9zayQfLfKQ/giphy.gif"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
@@ -111,6 +111,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
 </div>
+
 
 
 
