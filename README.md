@@ -58,34 +58,7 @@
   </picture>
 </div>
 
-```json
-{
-  "technologies": {
-    "core_languages": {
-      "primary": ["Go", "Java"],
-      "familiar": ["Python", "JavaScript"]
-    },
-    "cloud_native": {
-      "containerization": ["Docker", "Containerd"],
-      "orchestration": ["Kubernetes", "Knative", "KubeEdge"],
-      "service_mesh": ["Null", "Null"]
-    },
-    "distributed_systems": {
-      "messaging": ["Null", "Null"],
-      "databases": {
-        "sql": ["PostgreSQL", "MySQL"],
-        "nosql": ["MongoDB", "Redis"]
-      },
-      "observability": ["Prometheus", "Null", "Jaeger"]
-    },
-    "development_tools": {
-      "version_control": ["Git", "GitHub"],
-      "ci_cd": ["Null", "GitHub Actions"],
-      "iac": ["Null", "null"]
-    }
-  }
-}
-```
+
 
 <div align="center">
   <h2>
