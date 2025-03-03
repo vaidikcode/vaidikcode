@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vaidik%20Bhardwaj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" />
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Design+Enthusiast;Cloud+Native+;Distributed+Systems+" />
